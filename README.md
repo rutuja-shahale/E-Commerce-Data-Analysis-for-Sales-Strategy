@@ -7,7 +7,7 @@
 • Data is related to sales for each month of 2019 and the task is to generate key insights which will help the sales team of Kmart to take some key business decisions towards Fine-tuning their sales strategy.
 ✤ Programming Language:
 
-   Python
+  • Python
    
 ✤ Exploratory Data Analysis:-
 
