@@ -5,7 +5,10 @@
 • Kmart is a leading online retailer in the US and as part of their annual sales review meeting, they need to decide on their sales strategy for the year 2020 based on the insights from the sales data in 2019.
 
 • Data is related to sales for each month of 2019 and the task is to generate key insights which will help the sales team of Kmart to take some key business decisions towards Fine-tuning their sales strategy.
+✤ Programming Language:
 
+   Python
+   
 ✤ Exploratory Data Analysis:-
 
 • Loaded Data of each month and made data frame using pandas.
