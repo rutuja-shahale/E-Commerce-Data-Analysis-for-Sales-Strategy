@@ -8,11 +8,15 @@
 
 ✤ Exploratory Data Analysis:-
 
-• Loaded Data of each month and made data frame using pandas
+• Loaded Data of each month and made data frame using pandas.
+
 • Concatenated Dataset to make one Dataset for 2019 sales.
+
 • Treating Null Values and Junk Data.
-• Made a Filtered Dataset after preprocessing data
-• Analysis and answers to business problems. (visualizations using matplot and seaborn library)
+
+• Made a Filtered Dataset after preprocessing data.
+
+• Analysis and answers to business problems. (visualizations using matplot and seaborn library).
 
 ✤ Question of this Project:-
 
