@@ -2,17 +2,17 @@
 
 ✤ Introduction
  
-Kmart is a leading online retailer in the US and as part of their annual sales review meeting, they need to decide on their sales strategy for the year 2020 based on the insights from the sales data in 2019.
+• Kmart is a leading online retailer in the US and as part of their annual sales review meeting, they need to decide on their sales strategy for the year 2020 based on the insights from the sales data in 2019.
 
-Data is related to sales for each month of 2019 and the task is to generate key insights which will help the sales team of Kmart to take some key business decisions towards Fine-tuning their sales strategy.
+• Data is related to sales for each month of 2019 and the task is to generate key insights which will help the sales team of Kmart to take some key business decisions towards Fine-tuning their sales strategy.
 
-✤ 
+✤ Exploratory Data Analysis:-
 
-1. Loaded Data of each month and made data frame using pandas
-2. Concatenated Dataset to make one Dataset for 2019 sales.
-3. Treating Null Values and Junk Data.
-4. Made a Filtered Dataset after preprocessing data
-5. Analysis and answers to business problems. (visualizations using matplot and seaborn library)
+• Loaded Data of each month and made data frame using pandas
+• Concatenated Dataset to make one Dataset for 2019 sales.
+• Treating Null Values and Junk Data.
+• Made a Filtered Dataset after preprocessing data
+• Analysis and answers to business problems. (visualizations using matplot and seaborn library)
 
 ✤ Question of this Project:-
 
